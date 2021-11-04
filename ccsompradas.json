@@ -1,0 +1,1595 @@
+{
+    "1607767615": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5536365011865283",
+                    "mes": "11",
+                    "ano": "2025",
+                    "cvv": "883",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 17:17:38"
+            },
+            {
+                "cc": {
+                    "cc": "6363681277651258",
+                    "mes": "08",
+                    "ano": "2025",
+                    "cvv": "230",
+                    "bandeira": "ELO",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 17:41:10"
+            },
+            {
+                "cc": {
+                    "cc": "5140094372268576",
+                    "mes": "09",
+                    "ano": "2024",
+                    "cvv": "424",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 19:20:12"
+            },
+            {
+                "cc": {
+                    "cc": "6500448562072606",
+                    "mes": "01",
+                    "ano": "2025",
+                    "cvv": "503",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 19:27:36"
+            },
+            {
+                "cc": {
+                    "cc": "4984080621570674",
+                    "mes": "03",
+                    "ano": "2025",
+                    "cvv": "977",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 19:28:39"
+            },
+            {
+                "cc": {
+                    "cc": "5476066554114764",
+                    "mes": "03",
+                    "ano": "2026",
+                    "cvv": "522",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "16-07-2021 19:49:39"
+            },
+            {
+                "cc": {
+                    "cc": "4984084413421344",
+                    "mes": "03",
+                    "ano": "2027",
+                    "cvv": "882",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 00:17:39"
+            },
+            {
+                "cc": {
+                    "cc": "5313918111172312",
+                    "mes": "07",
+                    "ano": "2025",
+                    "cvv": "891",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "corporate",
+                    "tipo": "CREDIT",
+                    "banco": "AGILLITAS SERVICOS DE PAGAMENTOS, S.A. BANK BRASIL S.A. - BANCO",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 20:54:50"
+            },
+            {
+                "cc": {
+                    "cc": "5313910438860653",
+                    "mes": "06",
+                    "ano": "2026",
+                    "cvv": "673",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "corporate",
+                    "tipo": "CREDIT",
+                    "banco": "AGILLITAS SERVICOS DE PAGAMENTOS, S.A. BANK BRASIL S.A. - BANCO",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 20:55:51"
+            },
+            {
+                "cc": {
+                    "cc": "5313912764357551",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "769",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "corporate",
+                    "tipo": "CREDIT",
+                    "banco": "AGILLITAS SERVICOS DE PAGAMENTOS, S.A. BANK BRASIL S.A. - BANCO",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 20:57:05"
+            },
+            {
+                "cc": {
+                    "cc": "5476063362046510",
+                    "mes": "02",
+                    "ano": "2025",
+                    "cvv": "790",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 21:04:18"
+            },
+            {
+                "cc": {
+                    "cc": "4074090355530043",
+                    "mes": "01",
+                    "ano": "2023",
+                    "cvv": "604",
+                    "bandeira": "VISA",
+                    "nivel": "corporate t&amp;e",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 23:41:06"
+            },
+            {
+                "cc": {
+                    "cc": "6363683022725353",
+                    "mes": "03",
+                    "ano": "2023",
+                    "cvv": "719",
+                    "bandeira": "ELO",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "18-07-2021 10:29:54"
+            },
+            {
+                "cc": {
+                    "cc": "5241825812606703",
+                    "mes": "06",
+                    "ano": "2023",
+                    "cvv": "356",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "titanium",
+                    "tipo": "CREDIT",
+                    "banco": "SBI CARDS &AMP; PAYMENT SERVICES PVT., LTD.",
+                    "pais": "INDIA"
+                },
+                "date": "18-07-2021 22:15:40"
+            },
+            {
+                "cc": {
+                    "cc": "4341464323055648",
+                    "mes": "03",
+                    "ano": "2025",
+                    "cvv": "705",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "CB OTKRITIE CJSC",
+                    "pais": "RUSSIAN FEDERATION"
+                },
+                "date": "18-07-2021 22:16:35"
+            },
+            {
+                "cc": {
+                    "cc": "5536365143218641",
+                    "mes": "11",
+                    "ano": "2024",
+                    "cvv": "154",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 00:54:25"
+            },
+            {
+                "cc": {
+                    "cc": "5313911473116084",
+                    "mes": "05",
+                    "ano": "2025",
+                    "cvv": "679",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "corporate",
+                    "tipo": "CREDIT",
+                    "banco": "AGILLITAS SERVICOS DE PAGAMENTOS, S.A. BANK BRASIL S.A. - BANCO",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 16:35:15"
+            },
+            {
+                "cc": {
+                    "cc": "5536362143686471",
+                    "mes": "03",
+                    "ano": "2025",
+                    "cvv": "814",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "21-07-2021 15:14:00"
+            },
+            {
+                "cc": {
+                    "cc": "4745257317742755",
+                    "mes": "03",
+                    "ano": "2026",
+                    "cvv": "992",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "RENNER ADMINISTRADORA DE CARTO",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:03:54"
+            },
+            {
+                "cc": {
+                    "cc": "5476062437026804",
+                    "mes": "04",
+                    "ano": "2025",
+                    "cvv": "483",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:05:13"
+            },
+            {
+                "cc": {
+                    "cc": "5476062045204728",
+                    "mes": "04",
+                    "ano": "2026",
+                    "cvv": "674",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:05:50"
+            },
+            {
+                "cc": {
+                    "cc": "5476066783722114",
+                    "mes": null,
+                    "ano": null,
+                    "cvv": null,
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:06:28"
+            },
+            {
+                "cc": {
+                    "cc": "5476064117814475",
+                    "mes": "08",
+                    "ano": "2024",
+                    "cvv": "811",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:06:35"
+            },
+            {
+                "cc": {
+                    "cc": "5476066783722114",
+                    "mes": null,
+                    "ano": null,
+                    "cvv": null,
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:07:02"
+            },
+            {
+                "cc": {
+                    "cc": "5390381740027165",
+                    "mes": "09",
+                    "ano": "2023",
+                    "cvv": "191",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "27-07-2021 13:05:13"
+            }
+        ],
+        "mixs": [
+            {
+                "cc": "5140098140878020|12|2027|776",
+                "date": "16-07-2021 17:40:07"
+            },
+            {
+                "cc": "6500448781600153|03|2027|796",
+                "date": "18-07-2021 22:10:23"
+            }
+        ]
+    },
+    "1081830665": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5536360830530051",
+                    "mes": "01",
+                    "ano": "2027",
+                    "cvv": "125",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "17-07-2021 23:17:47"
+            }
+        ]
+    },
+    "1879001848": {
+        "mixs": [
+            {
+                "cc": "6500448224782030|03|2025|572",
+                "date": "18-07-2021 21:56:53"
+            }
+        ],
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5267694726612408",
+                    "mes": "05",
+                    "ano": "2025",
+                    "cvv": "839",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "18-07-2021 22:13:45"
+            },
+            {
+                "cc": {
+                    "cc": "5241824332752022",
+                    "mes": "07",
+                    "ano": "2027",
+                    "cvv": "971",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "titanium",
+                    "tipo": "CREDIT",
+                    "banco": "SBI CARDS &AMP; PAYMENT SERVICES PVT., LTD.",
+                    "pais": "INDIA"
+                },
+                "date": "19-07-2021 01:22:14"
+            },
+            {
+                "cc": {
+                    "cc": "5536363073857736",
+                    "mes": "08",
+                    "ano": "2024",
+                    "cvv": "500",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:26:46"
+            }
+        ]
+    },
+    "1741037095": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5536363030028462",
+                    "mes": "08",
+                    "ano": "2024",
+                    "cvv": "689",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 00:56:31"
+            },
+            {
+                "cc": {
+                    "cc": "5390387274111333",
+                    "mes": "10",
+                    "ano": "2026",
+                    "cvv": "621",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:00:15"
+            },
+            {
+                "cc": {
+                    "cc": "4984081171274378",
+                    "mes": "08",
+                    "ano": "2026",
+                    "cvv": "150",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:04:05"
+            },
+            {
+                "cc": {
+                    "cc": "4745258024801660",
+                    "mes": "09",
+                    "ano": "2026",
+                    "cvv": "980",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "RENNER ADMINISTRADORA DE CARTO",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:04:56"
+            },
+            {
+                "cc": {
+                    "cc": "4593160653616810",
+                    "mes": "07",
+                    "ano": "2025",
+                    "cvv": "682",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:06:01"
+            },
+            {
+                "cc": {
+                    "cc": "6500444435204104",
+                    "mes": "09",
+                    "ano": "2027",
+                    "cvv": "646",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:09:15"
+            },
+            {
+                "cc": {
+                    "cc": "6500445414251867",
+                    "mes": "08",
+                    "ano": "2024",
+                    "cvv": "469",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO BRADESCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "19-07-2021 01:10:13"
+            }
+        ]
+    },
+    "1604490992": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5536361034252336",
+                    "mes": "09",
+                    "ano": "2027",
+                    "cvv": "952",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 22:59:36"
+            },
+            {
+                "cc": {
+                    "cc": "4593168074382581",
+                    "mes": "06",
+                    "ano": "2024",
+                    "cvv": "548",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 23:05:35"
+            },
+            {
+                "cc": {
+                    "cc": "5476065616224413",
+                    "mes": "01",
+                    "ano": "2024",
+                    "cvv": "744",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "26-07-2021 23:07:48"
+            }
+        ]
+    },
+    "1605896966": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4984088356776127",
+                    "mes": "08",
+                    "ano": "2023",
+                    "cvv": "657",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "BANCO DO BRASIL, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "27-07-2021 09:44:09"
+            }
+        ]
+    },
+    "1619160102": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4593168420137507",
+                    "mes": "04",
+                    "ano": "2023",
+                    "cvv": "428",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "ITAU UNIBANCO, S.A.",
+                    "pais": "BRASIL"
+                },
+                "date": "27-07-2021 13:06:12"
+            }
+        ]
+    },
+    "1796358554": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5317059844884778",
+                    "mes": "04",
+                    "ano": "2026",
+                    "cvv": "859",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "<IMG HEIGHT=\"30\" SRC=\"HTTPS://BINCHECK.IO/ASSETS/FLAGS/SVG/BR.SVG\" ALT=\"BRASIL\">",
+                    "resultado": "1"
+                },
+                "date": "12-09-2021 14:15:52"
+            },
+            {
+                "cc": {
+                    "cc": "6505070018697003",
+                    "mes": "10",
+                    "ano": "2024",
+                    "cvv": "867",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "12-09-2021 15:09:11"
+            },
+            {
+                "cc": {
+                    "cc": "5305518270019534",
+                    "mes": "10",
+                    "ano": "2024",
+                    "cvv": "136",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "12-09-2021 15:36:02"
+            },
+            {
+                "cc": {
+                    "cc": "5155904282280895",
+                    "mes": "06",
+                    "ano": "2028",
+                    "cvv": "083",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "12-09-2021 15:48:26"
+            }
+        ]
+    },
+    "1969969028": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "6504859893752946",
+                    "mes": "02",
+                    "ano": "2025",
+                    "cvv": "023",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 17:33:17"
+            },
+            {
+                "cc": {
+                    "cc": "6062823899584996",
+                    "mes": "04",
+                    "ano": "2024",
+                    "cvv": "562",
+                    "bandeira": "HIPERCARD",
+                    "nivel": "hiper",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 07:24:07"
+            }
+        ],
+        "mixs": [
+            {
+                "cc": "6504859893752946|02|2025|023",
+                "date": "20-09-2021 17:58:23"
+            }
+        ]
+    },
+    "1887319546": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4350870023456316",
+                    "mes": "07",
+                    "ano": "2025",
+                    "cvv": "765",
+                    "bandeira": "VISA",
+                    "nivel": "------",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "US",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 18:02:25"
+            },
+            {
+                "cc": {
+                    "cc": "4350870023456316",
+                    "mes": "07",
+                    "ano": "2025",
+                    "cvv": "765",
+                    "bandeira": "VISA",
+                    "nivel": "------",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "US",
+                    "resultado": "2"
+                },
+                "date": "20-09-2021 18:03:32"
+            },
+            {
+                "cc": {
+                    "cc": "4350870023456316",
+                    "mes": "07",
+                    "ano": "2025",
+                    "cvv": "765",
+                    "bandeira": "VISA",
+                    "nivel": "------",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "US",
+                    "resultado": "3"
+                },
+                "date": "20-09-2021 18:03:54"
+            },
+            {
+                "cc": {
+                    "cc": "5522890270022728",
+                    "mes": "12",
+                    "ano": "2024",
+                    "cvv": "727",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 22:52:21"
+            },
+            {
+                "cc": {
+                    "cc": "5522890270022728",
+                    "mes": "12",
+                    "ano": "2024",
+                    "cvv": "727",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 22:57:08"
+            },
+            {
+                "cc": {
+                    "cc": "5522890270022728",
+                    "mes": "12",
+                    "ano": "2024",
+                    "cvv": "727",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 23:02:55"
+            },
+            {
+                "cc": {
+                    "cc": "4191656612580704",
+                    "mes": "02",
+                    "ano": "2023",
+                    "cvv": "741",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "20-09-2021 23:15:33"
+            },
+            {
+                "cc": {
+                    "cc": "4191656612580704",
+                    "mes": "02",
+                    "ano": "2023",
+                    "cvv": "741",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 00:04:33"
+            },
+            {
+                "cc": {
+                    "cc": "4984061216023550",
+                    "mes": "05",
+                    "ano": "2025",
+                    "cvv": "331",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 05:40:33"
+            },
+            {
+                "cc": {
+                    "cc": "5522890270022728",
+                    "mes": "12",
+                    "ano": "2024",
+                    "cvv": "727",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "21-09-2021 05:40:58"
+            },
+            {
+                "cc": {
+                    "cc": "5488245124853210",
+                    "mes": "04",
+                    "ano": "2025",
+                    "cvv": "056",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 05:41:29"
+            },
+            {
+                "cc": {
+                    "cc": "6504967087747075",
+                    "mes": "04",
+                    "ano": "2023",
+                    "cvv": "800",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 05:41:52"
+            },
+            {
+                "cc": {
+                    "cc": "5262531331817854",
+                    "mes": "05",
+                    "ano": "2023",
+                    "cvv": "863",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "business",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "LB",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 05:42:15"
+            },
+            {
+                "cc": {
+                    "cc": "4984085763170431",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "132",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 05:42:40"
+            },
+            {
+                "cc": {
+                    "cc": "4984085763170431",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "132",
+                    "bandeira": "VISA",
+                    "nivel": "infinite",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "21-09-2021 05:43:01"
+            },
+            {
+                "cc": {
+                    "cc": "6062823899584996",
+                    "mes": "04",
+                    "ano": "2024",
+                    "cvv": "562",
+                    "bandeira": "HIPERCARD",
+                    "nivel": "hiper",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 07:30:08"
+            },
+            {
+                "cc": {
+                    "cc": "2306502803032046",
+                    "mes": "03",
+                    "ano": "2023",
+                    "cvv": "621",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "------",
+                    "tipo": "------",
+                    "banco": "------",
+                    "pais": "",
+                    "resultado": "2"
+                },
+                "date": "21-09-2021 07:39:16"
+            },
+            {
+                "cc": {
+                    "cc": "5162929938448324",
+                    "mes": "06",
+                    "ano": "2027",
+                    "cvv": "128",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "22-09-2021 06:17:18"
+            },
+            {
+                "cc": {
+                    "cc": "5384513718240325",
+                    "mes": "09",
+                    "ano": "2025",
+                    "cvv": "835",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "prepaid",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "23-09-2021 15:58:40"
+            },
+            {
+                "cc": {
+                    "cc": "4191656612580704",
+                    "mes": "02",
+                    "ano": "2023",
+                    "cvv": "741",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "24-09-2021 18:21:32"
+            },
+            {
+                "cc": {
+                    "cc": "4984535201907679",
+                    "mes": "01",
+                    "ano": "2025",
+                    "cvv": "309",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "25-09-2021 10:28:05"
+            },
+            {
+                "cc": {
+                    "cc": "4349951205466010",
+                    "mes": "01",
+                    "ano": "2023",
+                    "cvv": "655",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "25-09-2021 10:28:56"
+            },
+            {
+                "cc": {
+                    "cc": "4901721653427453",
+                    "mes": "12",
+                    "ano": "2026",
+                    "cvv": "455",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "25-09-2021 17:23:00"
+            },
+            {
+                "cc": {
+                    "cc": "5522894501232882",
+                    "mes": "05",
+                    "ano": "2023",
+                    "cvv": "642",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "25-09-2021 21:35:35"
+            },
+            {
+                "cc": {
+                    "cc": "5522897570178118",
+                    "mes": "12",
+                    "ano": "2023",
+                    "cvv": "650",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "3"
+                },
+                "date": "25-09-2021 21:36:20"
+            },
+            {
+                "cc": {
+                    "cc": "5522893733313114",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "639",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "4"
+                },
+                "date": "25-09-2021 21:36:37"
+            },
+            {
+                "cc": {
+                    "cc": "4984427496684215",
+                    "mes": "11",
+                    "ano": "2024",
+                    "cvv": "198",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "3"
+                },
+                "date": "25-09-2021 21:36:56"
+            },
+            {
+                "cc": {
+                    "cc": "4901728282237633",
+                    "mes": "12",
+                    "ano": "2026",
+                    "cvv": "380",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "3"
+                },
+                "date": "25-09-2021 21:37:33"
+            },
+            {
+                "cc": {
+                    "cc": "4901728282237633",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "380",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "4"
+                },
+                "date": "25-09-2021 21:37:49"
+            },
+            {
+                "cc": {
+                    "cc": "5309940866846458",
+                    "mes": "03",
+                    "ano": "2029",
+                    "cvv": "887",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "25-09-2021 21:38:14"
+            },
+            {
+                "cc": {
+                    "cc": "5443152782145281",
+                    "mes": "04",
+                    "ano": "2024",
+                    "cvv": "279",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "25-09-2021 21:38:31"
+            }
+        ]
+    },
+    "1613960505": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4511425205362521",
+                    "mes": "04",
+                    "ano": "2025",
+                    "cvv": "355",
+                    "bandeira": "VISA",
+                    "nivel": "business",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "US",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 08:47:23"
+            },
+            {
+                "cc": {
+                    "cc": "4916755782820702",
+                    "mes": "02",
+                    "ano": "2026",
+                    "cvv": "447",
+                    "bandeira": "VISA",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 09:07:02"
+            }
+        ]
+    },
+    "1574080874": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4040026008604711",
+                    "mes": "02",
+                    "ano": "2023",
+                    "cvv": "126",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 09:16:07"
+            },
+            {
+                "cc": {
+                    "cc": "4916752812776673",
+                    "mes": "05",
+                    "ano": "2023",
+                    "cvv": "306",
+                    "bandeira": "VISA",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "21-09-2021 09:16:40"
+            },
+            {
+                "cc": {
+                    "cc": "4916751130424230",
+                    "mes": "10",
+                    "ano": "2026",
+                    "cvv": "420",
+                    "bandeira": "VISA",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "3"
+                },
+                "date": "21-09-2021 09:16:52"
+            },
+            {
+                "cc": {
+                    "cc": "5384515745201527",
+                    "mes": "01",
+                    "ano": "2023",
+                    "cvv": "016",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "prepaid",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 15:10:59"
+            },
+            {
+                "cc": {
+                    "cc": "5365883861525803",
+                    "mes": "02",
+                    "ano": "2025",
+                    "cvv": "062",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "enhanced",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "US",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 15:12:16"
+            }
+        ]
+    },
+    "1936524693": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4191656612580704",
+                    "mes": "02",
+                    "ano": "2023",
+                    "cvv": "741",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "DEBIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 15:28:14"
+            },
+            {
+                "cc": {
+                    "cc": "6504967087747075",
+                    "mes": "04",
+                    "ano": "2023",
+                    "cvv": "800",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 15:54:56"
+            },
+            {
+                "cc": {
+                    "cc": "2306502803032046",
+                    "mes": "03",
+                    "ano": "2023",
+                    "cvv": "621",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "------",
+                    "tipo": "------",
+                    "banco": "------",
+                    "pais": "",
+                    "resultado": "1"
+                },
+                "date": "21-09-2021 15:59:28"
+            }
+        ]
+    },
+    "1946039423": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4551831058839369",
+                    "mes": "01",
+                    "ano": "2024",
+                    "cvv": "576",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "25-09-2021 21:19:27"
+            },
+            {
+                "cc": {
+                    "cc": "4901727657718482",
+                    "mes": "11",
+                    "ano": "2024",
+                    "cvv": "665",
+                    "bandeira": "VISA",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "25-09-2021 21:21:49"
+            },
+            {
+                "cc": {
+                    "cc": "5522895855610516",
+                    "mes": "03",
+                    "ano": "2024",
+                    "cvv": "481",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "black",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "1"
+                },
+                "date": "25-09-2021 21:24:24"
+            },
+            {
+                "cc": {
+                    "cc": "4854645080993257",
+                    "mes": "08",
+                    "ano": "2025",
+                    "cvv": "569",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "------",
+                    "pais": "BR",
+                    "resultado": "2"
+                },
+                "date": "25-09-2021 21:31:09"
+            }
+        ]
+    },
+    "1258053832": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "6504859893752946",
+                    "mes": "02",
+                    "ano": "2025",
+                    "cvv": "023",
+                    "nome": "Samuel Lucca Joaquim Pires",
+                    "cpf": "017.593.210-79",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "28-09-2021 23:44:18"
+            },
+            {
+                "cc": {
+                    "cc": "6504859893752946",
+                    "mes": "02",
+                    "ano": "2025",
+                    "cvv": "023",
+                    "nome": "Edson Juan Caio Aparício",
+                    "cpf": "882.707.304-32",
+                    "bandeira": "DISCOVER",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "28-09-2021 23:44:53"
+            },
+            {
+                "cc": {
+                    "cc": "5232841864383878",
+                    "mes": "02",
+                    "ano": "2027",
+                    "cvv": "320",
+                    "nome": "Ryan Elias de Paula",
+                    "cpf": "347.854.435-10",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "standard",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "28-09-2021 23:45:54"
+            },
+            {
+                "cc": {
+                    "cc": "5067756106659218",
+                    "mes": "11",
+                    "ano": "2024",
+                    "cvv": "715",
+                    "nome": "Vinicius Nelson Melo",
+                    "cpf": "735.065.011-60",
+                    "bandeira": "ELO",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 23:27:23"
+            }
+        ]
+    },
+    "1611188333": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5447315426980696",
+                    "mes": "01",
+                    "ano": "2028",
+                    "cvv": "418",
+                    "nome": "Henry Enrico Pedro da Paz",
+                    "cpf": "277.769.780-94",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 02:31:54"
+            },
+            {
+                "cc": {
+                    "cc": "4984533196303087",
+                    "mes": "08",
+                    "ano": "2024",
+                    "cvv": "032",
+                    "nome": "Diego Fábio Matheus da Conceição",
+                    "cpf": "883.879.519-35",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 02:34:02"
+            },
+            {
+                "cc": {
+                    "cc": "5067756106659218",
+                    "mes": "11",
+                    "ano": "2024",
+                    "cvv": "715",
+                    "nome": "Vitor Fernando Baptista",
+                    "cpf": "494.697.758-99",
+                    "bandeira": "ELO",
+                    "nivel": "elo",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 18:20:16"
+            },
+            {
+                "cc": {
+                    "cc": "5502093122096305",
+                    "mes": "10",
+                    "ano": "2027",
+                    "cvv": "061",
+                    "nome": "Igor Matheus Murilo Duarte",
+                    "cpf": "843.756.989-34",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "gold",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "30-09-2021 00:04:40"
+            }
+        ]
+    },
+    "1364320494": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "5155901284968188",
+                    "mes": "03",
+                    "ano": "2024",
+                    "cvv": "217",
+                    "nome": "Tiago Juan Fernandes",
+                    "cpf": "192.903.742-25",
+                    "bandeira": "MASTERCARD",
+                    "nivel": "platinum",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 17:54:37"
+            }
+        ]
+    },
+    "903371451": {
+        "ccs": [
+            {
+                "cc": {
+                    "cc": "4984428496422721",
+                    "mes": "10",
+                    "ano": "2024",
+                    "cvv": "493",
+                    "nome": "Marcos Vinicius Carlos Moura",
+                    "cpf": "391.902.917-86",
+                    "bandeira": "VISA",
+                    "nivel": "classic",
+                    "tipo": "CREDIT",
+                    "banco": "Nao desponivel",
+                    "pais": "Brasil"
+                },
+                "date": "29-09-2021 18:21:01"
+            }
+        ]
+    }
+}

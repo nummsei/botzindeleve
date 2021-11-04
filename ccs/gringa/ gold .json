@@ -1,0 +1,67 @@
+{
+    "2": {
+        "cc": "5268630601670896",
+        "mes": "12",
+        "ano": "2025",
+        "cvv": "127",
+        "nome": "Guilherme Samuel Rocha",
+        "cpf": "546.979.893-33",
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "3": {
+        "cc": "5502090857535259",
+        "mes": "09",
+        "ano": "2028",
+        "cvv": "633",
+        "nome": "Breno Giovanni Thomas Galvão",
+        "cpf": "155.534.823-80",
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "4": {
+        "cc": "5464529647849328",
+        "mes": "09",
+        "ano": "2024",
+        "cvv": "457",
+        "nome": "Filipe Kauê Yago Moraes",
+        "cpf": "518.831.263-80",
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "5": {
+        "cc": "5188141155561116",
+        "mes": "03",
+        "ano": "2025",
+        "cvv": "342",
+        "nome": "Bernardo Ruan Samuel Oliveira",
+        "cpf": "251.184.579-20",
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "6": {
+        "cc": "5256640557840090",
+        "mes": "01",
+        "ano": "2029",
+        "cvv": "223",
+        "nome": "Edson Mário Henrique Moreira",
+        "cpf": "721.874.566-09",
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

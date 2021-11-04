@@ -1,0 +1,36 @@
+{
+    "dono": "1252948290",
+    "manutencao": "false",
+    "userDono": "@whitecc",
+    "versao": "2.1.1",
+    "updateDAte": "18/02/2021 as 21:28",
+    "price": {
+        "Gold": "30",
+        "Default": "30",
+        "standard": "25",
+        "default": "25",
+        "black": "50",
+        "platinium": "17",
+        "elo": "10",
+        "bussines": 30,
+        "infinite": 50,
+        "classic": 10,
+        "purchasing": 34,
+        "gold": 20,
+        "platinum": 0,
+        "business": 50,
+        "prepaid": 20,
+        "20": 0,
+        "200": 0,
+        "standart": 12
+    },
+    "pricemix": {
+        "2": 10,
+        "default": 15,
+        "3": 50,
+        "10": 100,
+        "20": 160,
+        "30": 190
+    },
+    "welcome": "_Olá, Seja bem vindo a Felps store , pix manual por enquanto , seu id {id} , para add saldo entre @whitecc !\n\n👥[grupo](t.me/whiteccsref)\n❓[duvidas](t.me/suporteblackofc)\n🤖[dev](t.me/whitecc)"
+}

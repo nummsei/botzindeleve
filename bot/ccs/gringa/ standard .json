@@ -1,0 +1,67 @@
+{
+    "1": {
+        "cc": "5443158961225208",
+        "mes": "08",
+        "ano": "2021",
+        "cvv": "354",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "standard",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "2": {
+        "cc": "5485140290978615",
+        "mes": "02",
+        "ano": "2029",
+        "cvv": "903",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "standard",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "3": {
+        "cc": "5256631563654690",
+        "mes": "10",
+        "ano": "2023",
+        "cvv": "084",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "standard",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "4": {
+        "cc": "5300332666834729",
+        "mes": "08",
+        "ano": "2024",
+        "cvv": "048",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "standard",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "5": {
+        "cc": "5184542388608059",
+        "mes": "02",
+        "ano": "2026",
+        "cvv": "077",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "standard",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

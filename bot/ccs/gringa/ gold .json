@@ -1,0 +1,28 @@
+{
+    "1": {
+        "cc": "5447318377708017",
+        "mes": "10",
+        "ano": "2027",
+        "cvv": "594",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "2": {
+        "cc": "4532117149169238",
+        "mes": "03",
+        "ano": "2024",
+        "cvv": "223",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "VISA",
+        "nivel": "gold",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

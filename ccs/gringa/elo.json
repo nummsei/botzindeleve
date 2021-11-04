@@ -1,0 +1,54 @@
+{
+    "3": {
+        "cc": "5067756106659218",
+        "mes": "11",
+        "ano": "2024",
+        "cvv": "715",
+        "nome": "Caleb Renato Hugo Bernardes",
+        "cpf": "480.588.231-04",
+        "bandeira": "ELO",
+        "nivel": "elo",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "4": {
+        "cc": "5067756106659218",
+        "mes": "11",
+        "ano": "2024",
+        "cvv": "715",
+        "nome": "Anderson Pedro Almada",
+        "cpf": "270.231.838-09",
+        "bandeira": "ELO",
+        "nivel": "elo",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "5": {
+        "cc": "5067756106659218",
+        "mes": "11",
+        "ano": "2024",
+        "cvv": "715",
+        "nome": "Henrique Pedro Henrique Calebe Melo",
+        "cpf": "412.513.553-31",
+        "bandeira": "ELO",
+        "nivel": "elo",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "6": {
+        "cc": "5067756106659218",
+        "mes": "11",
+        "ano": "2024",
+        "cvv": "715",
+        "nome": "Lorenzo Luís Caio Almada",
+        "cpf": "692.135.535-79",
+        "bandeira": "ELO",
+        "nivel": "elo",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

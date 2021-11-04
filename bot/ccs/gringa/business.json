@@ -1,0 +1,15 @@
+{
+    "1": {
+        "cc": "5305518270019534",
+        "mes": "10",
+        "ano": "2024",
+        "cvv": "136",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "business",
+        "tipo": "DEBIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

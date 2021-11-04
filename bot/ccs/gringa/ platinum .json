@@ -1,0 +1,28 @@
+{
+    "1": {
+        "cc": "5155904282280895",
+        "mes": "06",
+        "ano": "2028",
+        "cvv": "083",
+        "nome": "Benício Bento Pires",
+        "cpf": "100.869.551-36",
+        "bandeira": "MASTERCARD",
+        "nivel": "platinum",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "2": {
+        "cc": "5300490260112718",
+        "mes": "04",
+        "ano": "2029",
+        "cvv": "279",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "MASTERCARD",
+        "nivel": "platinum",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

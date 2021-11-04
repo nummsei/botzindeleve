@@ -1,0 +1,28 @@
+{
+    "1": {
+        "cc": "4984533192148239",
+        "mes": "04",
+        "ano": "2024",
+        "cvv": "322",
+        "nome": "Luan Breno Nicolas Oliveira",
+        "cpf": "347.123.160-98",
+        "bandeira": "VISA",
+        "nivel": "classic",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    },
+    "2": {
+        "cc": "4551831048627296",
+        "mes": "05",
+        "ano": "2024",
+        "cvv": "224",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "VISA",
+        "nivel": "classic",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}

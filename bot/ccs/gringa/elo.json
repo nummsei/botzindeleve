@@ -1,0 +1,15 @@
+{
+    "1": {
+        "cc": "6505070018697003",
+        "mes": "10",
+        "ano": "2024",
+        "cvv": "867",
+        "nome": null,
+        "cpf": null,
+        "bandeira": "DISCOVER",
+        "nivel": "elo",
+        "tipo": "CREDIT",
+        "banco": "Nao desponivel",
+        "pais": "Brasil"
+    }
+}
